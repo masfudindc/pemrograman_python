@@ -1,1 +1,1 @@
-Memulai Pemrograman dengan Python Dicoding
+Belajar Pemrograman Python
